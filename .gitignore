@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+.env
+
+# Models & Data
+backend/models/
+backend/*.gguf
+data/*.db
+data/*.json
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
