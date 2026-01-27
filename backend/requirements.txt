@@ -4,4 +4,5 @@ python-multipart
 pydub
 requests
 python-dotenv
-vosk
+openai-whisper
+torch --index-url https://download.pytorch.org/whl/cpu
